@@ -1,0 +1,7 @@
+November 18 - Gather data from Baseball Savant - 8 hours
+November 21 - November 24 - Analyze and get the data prepared for simulation - 5 hours * 4 = 20 hours
+November 25 - November 26 - Run the Monte Carlo simulation - 6 hours * 2 = 12 hours
+November 27 - December 1 - Thanksgiving break
+December 2 - December 24 - Run analysis on simulation data - 6 hours * 14 = 84 hours
+
+
