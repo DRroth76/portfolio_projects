@@ -49,10 +49,15 @@ This project simulates baseball at-bats and full games based on real-world pitch
 baseball_project/
 │
 ├── 0_0/, 0_1/, ..., 3_2/ # Individual count-based data folders
+
 ├── capstone_analysis.ipynb # Main notebook: cleaning, analysis, simulation
+
 ├── capstone_analysis.html/pdf # Rendered version of the notebook
+
 ├── all_pitches_combined.csv # Combined pitch dataset
+
 ├── capstone_steps_process.txt # Summary of modeling steps and logic
+
 └── README.md # Project overview
 
 ## Results Summary
