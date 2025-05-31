@@ -46,8 +46,6 @@ This project simulates baseball at-bats and full games based on real-world pitch
 
 ## Project Structure
 
-baseball_project/
-│
 ├── 0_0/, 0_1/, ..., 3_2/ # Individual count-based data folders
 
 ├── capstone_analysis.ipynb # Main notebook: cleaning, analysis, simulation
